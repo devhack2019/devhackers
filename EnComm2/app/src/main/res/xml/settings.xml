@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+    <PreferenceCategory
+        android:title="Notifications">
+
+        <SwitchPreference
+            android:defaultValue="true"
+            android:key="news"
+            android:summary="Stay updated about the latest innovative ideas"
+            android:textColor="@color/black"
+            android:title="News" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="Feedback">
+
+        <Preference
+            android:title="Feedback"
+            android:summary="Feedback form coming soon..">
+        </Preference>
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="About">
+
+        <Preference
+            android:title="EnComm"
+            android:summary="\nDesigned and Developed by:\nSarthak Joshi\nVivek Mishra\nAman Luthra\nAditya Jha">
+        </Preference>
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

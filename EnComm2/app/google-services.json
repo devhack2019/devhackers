@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1057514673958",
+    "firebase_url": "https://encomm2.firebaseio.com",
+    "project_id": "encomm2",
+    "storage_bucket": "encomm2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057514673958:android:bdf63ad09ea5158e",
+        "android_client_info": {
+          "package_name": "com.example.teamdevhackers.encomm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057514673958-fr77dsaru9tm0gro3bfed9a45pql91nn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.teamdevhackers.encomm",
+            "certificate_hash": "9d3b84f404ae750c96341070ece09481569ad84a"
+          }
+        },
+        {
+          "client_id": "1057514673958-tei9il9p5htkbm2bf0kpb7tiilg2lh8t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdP0pwJX962YTfNEZTUvf3hlJLmtFiS7I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057514673958-tei9il9p5htkbm2bf0kpb7tiilg2lh8t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
